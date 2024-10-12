@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/*:root {*/
+/*  --background: #ffffff; !* Light theme background *!*/
+/*  --foreground: #000000; !* Light theme text color *!*/
+/*  --primary: #1d4ed8;*/
+/*  --secondary: #64748b;*/
+/*  --muted: #9ca3af;*/
+/*  --text-color: #fafafa; !* Text color for light theme *!*/
+/*  --button-color: #1d4ed8; !* Button color for light theme *!*/
+/*  --button-text-color: #882828; !* Button text color for light theme *!*/
+/*}*/
+
+/*[data-theme='dark'] {*/
+/*  --background: #12121f; !* Dark theme background *!*/
+/*  --foreground: #f3f4f6; !* Dark theme text color *!*/
+/*  --primary: #60a5fa;*/
+/*  --secondary: #94a3b8;*/
+/*  --muted: #6b7280;*/
+/*  --text-color: #f3f4f6; !* Text color for dark theme *!*/
+/*  --button-color: #60a5fa; !* Button color for dark theme *!*/
+/*  --button-text-color: #000000; !* Button text color for dark theme *!*/
+/*}*/
+
